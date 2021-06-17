@@ -1,0 +1,6 @@
+[submodule "EverGarden-Backend"]
+	path = EverGarden-Backend
+	url = https://github.com/andyska/EverGarden-Backend
+[submodule "EverGarden-FrontEnd"]
+	path = EverGarden-FrontEnd
+	url = https://github.com/andyska/EverGarden-FrontEnd
